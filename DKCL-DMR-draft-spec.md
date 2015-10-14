@@ -1,0 +1,1 @@
+# DMR Specification ## - Draft subset for auto testing>This specification is made to get the basic understanding documented, so that an automatic testing can begin###RequirementsAccess to a TIA 6.4 versionDMR Solution installed###Busi
