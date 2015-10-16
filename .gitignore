@@ -10,3 +10,8 @@
 # Jarfile e.g. for selenium - fetch it your self
 # http://www.seleniumhq.org/download/
 *.jar
+
+node_modules
+SpecRunner.html
+.grunt
+*.log
