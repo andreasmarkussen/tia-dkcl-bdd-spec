@@ -1,0 +1,12 @@
+{
+  "name": "TIA-DKCL-BDD-Specification-project",
+  "devDependencies": {
+    "jshint": "latest",
+    "browserify": "latest",
+    "mocha": "latest"
+  },
+  "scripts": {
+    "lint": "jshint steps test-data",
+    "test": "mocha test/"
+  }
+}
